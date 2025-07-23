@@ -33,19 +33,6 @@ This project aims to detect the emotions of dogs from images using computer visi
 * Seaborn
 * Matplotlib
 * Scikit-learn
-
-## Installation
-
-1.  Clone the repository.
-     ```bash
-       https://github.com/chetankumarpulipati/animal-emotion-detection.git
-     ```
-2.  Install the required dependencies using pip:
-
-    ```bash
-    pip install tensorflow opencv-python numpy pandas seaborn matplotlib scikit-learn
-    ```
-
 ## Usage
 
 ### Training and Evaluation
